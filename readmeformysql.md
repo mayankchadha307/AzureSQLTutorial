@@ -1,2 +1,3 @@
    
-Updation of createmysql
+Creation of createmysql
+Changes made after cloning
